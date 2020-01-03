@@ -44,7 +44,7 @@ h1 {
 		padding: 1em;
 		overflow: scroll;
 		animation-name: move_content;
-		animation-duration: 4s;
+		animation-duration: 2s;
 
 }
 
